@@ -19,4 +19,6 @@ profiles. The platform will also be useful for institution to maintain a compreh
 
 Your task is to create a high-fidelity user interface (UI) and user flow using Figma with prototyping to demonstrate how the portal will function.
 
-Design Link : 
+Prototype Link : https://www.figma.com/proto/m6SgF6nEsv6zXvAqtWOaL0/Student-Portal-(Community)?node-id=1-2&node-type=canvas&t=EZ9jCAI7sfKbmVsE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&share=1
+
+Figma community Link : https://www.figma.com/community/file/1426262664150209278/student-portal
